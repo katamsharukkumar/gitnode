@@ -1,0 +1,24 @@
+{
+  "name": "gitnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katamsharukkumar/gitnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/katamsharukkumar/gitnode/issues"
+  },
+  "homepage": "https://github.com/katamsharukkumar/gitnode#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
